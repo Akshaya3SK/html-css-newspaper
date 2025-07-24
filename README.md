@@ -34,12 +34,4 @@ No JavaScript, frameworks, or libraries were used. This is a completely static p
 - Organizing long content using layout components and sections
 - Importance of accessibility with `alt` attributes and logical HTML structure
 
----
 
-## 📂 File Structure
-
-```bash
-/
-├── index.html        # Main webpage
-├── style (inline)    # Styling is embedded in the <head> section
-└── assets/           # (optional) Place for local images if needed
